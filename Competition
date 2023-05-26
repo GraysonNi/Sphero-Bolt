@@ -1,8 +1,9 @@
 //Programers: Grayson Nichols, Tyler Mattson
 //Date: 5/26/2023
 //Program: Competition
+//bolt # SB-E2F0
 
 async function startProgram() {
-	// Write code here
+	await scrollMatrixText('Start', {r: 66, g: 56, b: 255 }, 30, true)
 }
 
